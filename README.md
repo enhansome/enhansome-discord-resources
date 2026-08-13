@@ -1,1 +1,96 @@
-# enhansome-discord-resources
+# Awesome DTinker - Discord Resources with stars
+
+A curated list of awesome resources to customize your Discord experience. Inspired by [awesome lists](https://github.com/sindresorhus/awesome) ⭐ 495,114 | 🐛 100 | 📅 2026-06-30.
+
+This project attempts to make end-user life easier by requiring contributors to add working `@import`able embed links.
+
+If you encounter a problem while installing a discord mod, or are not quite sure what to do and the instructions on the main repository aren't helping, [click here](https://github.com/DTinker/discord-resources/wiki/Installing-Modifications) ⭐ 129 | 🐛 0 | 🌐 Go | 📅 2019-03-17 for a more in-depth installation guide.
+
+### Contributing
+
+Please take a look at the [contribution guidelines](https://github.com/DTinker/discord-resources/blob/master/CONTRIBUTING.md) ⭐ 129 | 🐛 0 | 🌐 Go | 📅 2019-03-17 before you contribute. Thanks to all [contributors](https://github.com/DTinker/discord-resources/graphs/contributors) ⭐ 129 | 🐛 0 | 🌐 Go | 📅 2019-03-17, you rock!
+
+#### *If you see a package or project here that is no longer maintained or is not a good fit, please submit a pull request to improve this file, instead of proposing removal. Thank you!*
+
+### Contents
+
+* [DTinker - Discord Resources](#dtinker---discord-resources)
+  * [Themes](#themes)
+  * [Useful snippets](#useful-snippets)
+* [Template](#template)
+
+## Themes
+
+* [SamuiNe/Crystalline-css](https://github.com/SamuiNe/Crystalline-css/) ⭐ 21 | 🐛 4 | 🌐 CSS | 📅 2023-10-14 - Crystalline is a Beautiful Discord theme focused on using non-rounded edges, dark colors, and transparent windows. Custom background is supported. [Embed](https://rawgit.com/SamuiNe/Crystalline-css/master/crystalline.css)
+  * **Screenshots:** [General](https://i.stole-a-me.me/ab1b25.png)
+* [Oliyy/Material-Design-Discord](https://github.com/Oliyy/Material-Design-Discord) ⭐ 8 | 🐛 0 | 🌐 CSS | 📅 2022-07-03 - An attempt at making a dark material design theme with lots of boxshadow. [Embed](https://rawgit.com/Oliyy/Material-Design-Discord/master/theme.css)
+  * **Screenshots:** [Preview](http://i.imgur.com/5tWV5y7.png)
+* [jakeoid/Discord-Adapta](https://github.com/jakeoid/Discord-Adapta) ⭐ 4 | 🐛 0 | 🌐 CSS | 📅 2016-12-13 - A Jakeoid remix of the BeautifulDiscord theme based on the Adapta GTK theme by TheBITLINK. [Embed](https://cdn.rawgit.com/jakeoid/Discord-Adapta/master/discord-adapta-jakeoid.css)
+  * **Screenshots:** [Preview](https://github.com/jakeoid/Discord-Adapta/blob/master/jake_screenshot.png?raw=true) ⭐ 4 | 🐛 0 | 🌐 CSS | 📅 2016-12-13
+* [eye-sigil/Discord-Prism](https://github.com/eye-sigil/Discord-Prism) ⚠️ Archived - A transparent glass-like theme for Discord with support for your own background. [Embed](https://rawgit.com/eye-sigil/Discord-Prism/master/prism.css)
+  * **Screenshots:** [Preview](https://i.stole-a-me.me/f27b99.png)
+* [TheBITLINK/Discord-Adapta](https://github.com/TheBITLINK/Discord-Adapta) ⭐ 2 | 🐛 0 | 🌐 CSS | 📅 2019-02-02 - Theme based on the Adapta GTK theme with optional character backgrounds. [Embed](https://cdn.rawgit.com/TheBITLINK/Discord-Adapta/master/discord-adapta.css)
+  * **Screenshots:** [General](https://raw.githubusercontent.com/TheBITLINK/Discord-Adapta/master/screenshot.png)
+* [Blackhippy/HpstrDiscord](https://github.com/Blackhippy/HpstrDiscord) ⭐ 1 | 🐛 0 | 🌐 CSS | 📅 2018-03-07 - A blue-greenish custom css theme for discord. The css code is based off of LUModder SpacegrayEdit. [Embed](https://cdn.rawgit.com/Blackhippy/HpstrDiscord/774f3efa/discord.css)
+  * **Screenshots:** [General](https://a.safe.moe/WM1yv.png)
+* [SnazzyPine25/Skype-Theme](https://github.com/SnazzyPine25/BeautifulDiscordThemes#skype) ⚠️ Archived - Theme based on Skype and Skype Preview. [Embed](https://cdn.rawgit.com/SnazzyPine25/BeautifulDiscordThemes/master/skype.css)
+  * **Screenshots:** [Dark General](http://i.imgur.com/qDhLz3n.png), [Light General](http://i.imgur.com/QGBiqxp.png), [Calls](http://i.imgur.com/QArE2Me.png), [Dark AutoComplete](http://i.imgur.com/v4T8UdY.png), [Light AutoComplete](http://i.imgur.com/mdAeoMA.png)
+* [AlexFlipnote/Discord\_Theme](https://github.com/AlexFlipnote/Discord_Theme) - A custom CSS made to change your discord style. [Embed](https://discordtheme.alexflipnote.xyz/theme.css)
+  * **Screenshots:** [Preview 1](https://i.alexflipnote.dev/77ukxvb.png) [Preview 2](https://i.alexflipnote.dev/7dEBUDA.png) [Preview 3](https://i.alexflipnote.dev/9eFXRVs.png) [Preview 4](https://i.alexflipnote.dev/6EuCjnZ.png)
+* [Cynosphere/Discord-SpacegrayEdit](https://github.com/Cynosphere/Discord-SpacegrayEdit) - A theme based on Spacegray syntax theme with color changes and classic, non-rounded embeds. [Embed](https://cdn.rawgit.com/Cynosphere/Discord-SpacegrayEdit/master/spacegray-edit.css)
+  * **Screenshots:** [Codeblocks](https://github.com/Cynosphere/Discord-SpacegrayEdit/blob/master/theme-code.png), [General](https://github.com/Cynosphere/Discord-SpacegrayEdit/blob/master/theme-all.png)
+* [LewisTehMinerz/BootyfulDiscord](https://github.com/LewisTehMinerz/BootyfulDiscord) - BootyfulDiscord.theme.css | A theme based off of AlexFlipnote's theme containing some snippets and some personal mods. [Embed](https://rawgit.com/LewisTehMinerz/BootyfulDiscord/master/BootyfulDiscord.theme.css)
+  * **Screenshots:** [Code Blocks](https://discord.is-pretty.sexy/657c78.gif) [Background](https://discord.is-pretty.sexy/3b74c7.png) [Profiles](https://discord.is-pretty.sexy/158506.png)
+
+## Useful snippets
+
+* [kanadeko/cozy-discord](https://github.com/kanadeko/cozy-discord) ⭐ 11 | 🐛 5 | 🌐 CSS | 📅 2023-04-17 - Auto hides the server list and makes it appear again on hover. Also moves notifications/badges to the left and makes them pretty. [Embed](https://cdn.rawgit.com/kanadeko/cozy-discord/master/cozy-discord.css)
+  * **example:** [animated](https://gfycat.com/SentimentalDaringKouprey)
+* [jakeoid/discord-emoji-anim](https://github.com/jakeoid/discord-emoji-anim) ⭐ 4 | 🐛 0 | 🌐 CSS | 📅 2018-03-24 - Adds some basic animations for Emoji that are inside of your Discord client. [Embed](https://cdn.rawgit.com/jakeoid/discord-emoji-anim/master/stylesheet.css)
+  * **examples:** [mp4](https://owo.whats-th.is/193994.mp4), [animated gif](https://owo.whats-th.is/cb7afb.gif)
+* [jakeoid/disccord](https://github.com/jakeoid/disccord) ⭐ 2 | 🐛 1 | 🌐 CSS | 📅 2017-05-12 - adds the kikke, banne, mutte, deaffe, delette options to your discord client. [Embed](https://cdn.rawgit.com/jakeoid/disccord/master/disccord.css)
+  * **example:** [right click menu](https://owo.whats-th.is/7da9ea.png)
+* [martmists/Discord-DnD](https://github.com/martmists/Discord-DnD) ⭐ 2 | 🐛 0 | 🌐 CSS | 📅 2017-01-07 - A snippet that adds the Dungeons and Dragons to the status list. [Embed](https://rawgit.com/martmists/discord-dnd/master/dnd.css)
+  * **Screenshots:** [preview (Custom dark selector not included)](https://owo.whats-th.is/635d21.png)
+* [PikaDude/Discord-Fade-Anims](https://github.com/PikaDude/Discord-Fade-Anims) ⚠️ Archived - Adds fading animations to almost everything in Discord. [Embed](https://cdn.rawgit.com/PikaDude/Discord-Fade-Anims/master/Discord-Fade-Anims.css)
+  * **example:** [channel change](https://owo.whats-th.is/0ac076.gif), [user profile](https://owo.whats-th.is/f68cfb.gif), [quick switcher](https://totally-not.a-sketchy.site/5067c0.gif)
+* [benzarr410/beautifuldiscord-nametags](https://github.com/benzarr410/beautifuldiscord-nametags) ⭐ 1 | 🐛 0 | 🌐 CSS | 📅 2017-06-09 - Allows you to add custom nametags to people. [Embed](https://cdn.rawgit.com/benzarr410/beautifuldiscord-nametags/master/examplenametag.css)
+  * **example:** [image](https://github.ratelimited.me/bc9a19.png)
+* [SnazzyPine25/DarkFaders](https://github.com/SnazzyPine25/BeautifulDiscordSnippets#darkfaders) ⚠️ Archived - Applies animation and tweaks to tooltips. [Embed](https://cdn.rawgit.com/SnazzyPine25/BeautifulDiscordSnippets/master/Tooltips/DarkFaders.css)
+  * **example:** [Animated Preview](http://i.imgur.com/AaUWFVu.png)
+* [SnazzyPine25/Windows-10-Context-Menu](https://github.com/SnazzyPine25/BeautifulDiscordSnippets#cm/windows10) ⚠️ Archived - Styles Context Menus after Windows 10. [Embed](https://cdn.rawgit.com/SnazzyPine25/BeautifulDiscordSnippets/master/ContextMenu/Windows10.css)
+  * **example:** [Dark Preview](http://i.imgur.com/OSijiwR.png), [Light Preview](http://i.imgur.com/K5HNWUG.png)
+* [SnazzyPine25/Windows-7](https://github.com/SnazzyPine25/BeautifulDiscordSnippets#windows7) ⚠️ Archived - Styles various buttons and checkboxes after Windows 7. [Embed](https://cdn.rawgit.com/SnazzyPine25/BeautifulDiscordSnippets/master/Misc/Windows7.css)
+  * **example:** [Button](http://owo.whats-th.is/0d2c91.gif), [Radio & Checkbox](http://i.imgur.com/Bq0rjmX.png), [Dropdown](https://cdn.discordapp.com/attachments/257343240120827904/278051553175404546/unknown.png)
+* [Ratismal/pink-hljs](https://github.com/Ratismal/pink-hljs) ⭐ 0 | 🐛 0 | 🌐 CSS | 📅 2016-12-30 - Makes codeblocks pretty and pink! [Embed](https://cdn.rawgit.com/ratismal/pink-hljs/master/pink.css)
+  * **example:** [Animated Preview](https://requires.discord.gold/c55186.gif)
+* [Cynosphere/Discord-ThemeSniplets/classic-embeds.css](https://github.com/Cynosphere/Discord-ThemeSniplets/blob/master/classic-embeds.css) - Classic, non-rounded embeds. [Embed](https://cdn.rawgit.com/Cynosphere/Discord-ThemeSniplets/master/classic-embeds.css)
+  * **example:** [preview](https://cdn.rawgit.com/Cynosphere/Discord-ThemeSniplets/master/classic-embeds.png)
+* [DracoZ12/TotalDarkMode](https://github.com/DracoZ12/TotalDarkMode) - Adds dark mode (mostly) everywhere. [Embed](https://cdn.jsdelivr.net/gh/DracoZ12/TotalDarkMode@165cd0c988cdf87ffce613c6ec8cc519991e8bd8/theme.css)
+  * **example:** [image1](https://a.yiff.moe/lioefo.png) [image2](https://a.yiff.moe/pukmkp.png)
+* [endreman0/discord-custom/noappbar](https://github.com/endreman0/discord-custom/blob/master/noappbar.css) - Expand the app bar, with the Discord wordmark and minimize/maximize/exit buttons, but hide it unless you hover at the top of the screen. [Embed](https://cdn.rawgit.com/endreman0/discord-custom/6f13f8c7b508648304733da3ec071a65c2a8eb9e/noappbar.css)
+  * **example:** [hidden](https://i.imgur.com/P5aTKCu.png), [shown](https://i.imgur.com/VQdizxf.png)
+* [jakeoid/no-white-theme.css](https://gist.github.com/jakeoid/f730f0b3e393a476688d94ad22c3d4cf) - Makes it so people who use the white theme of Discord are unable to use your style, with a fancy error message. [Embed](https://cdn.rawgit.com/jakeoid/f730f0b3e393a476688d94ad22c3d4cf/raw/17fb4282895a7dc6199ce2749cb2b56cfd45b45f/nowhitetheme.css)
+  * **example:** [preview](https://i.am-a.ninja/1c646a.png)
+* [jakeoid/semi-monokai.css](https://gist.github.com/jakeoid/33a608c852bf890e361523d245664882) - Adds the basic compatability for monokai formatting inside of Discord. [Embed](https://rawgit.com/jakeoid/33a608c852bf890e361523d245664882/raw/47c999e5c9b12cdf20d7d946f9b3493eff8eae1d/semi-monokai.css)
+  * **examples:** [preview](https://owo.whats-th.is/090944.png)
+* [LUModder/Discord-ThemeSniplets/transparent-base.css](https://github.com/Cynosphere/Discord-ThemeSniplets/blob/master/transparent-base.css) - A transparent base for easily adding in backgrounds. [Embed](https://cdn.rawgit.com/Cynosphere/Discord-ThemeSniplets/master/transparent-base.css)
+  * **example:** [no bg](https://cdn.rawgit.com/LUModder/Discord-ThemeSniplets/master/trans-1.png), [bg](https://cdn.rawgit.com/LUModder/Discord-ThemeSniplets/master/trans-2.png)
+* [ovyerus/discord-buttons-round.css](https://gist.github.com/Ovyerus/5574873c0725a8600150b5d963b20dcc) - Edits the account and voice panel buttons to be a pill shape and no dividers. [Embed](https://cdn.rawgit.com/Ovyerus/5574873c0725a8600150b5d963b20dcc/raw/b58568d1575f32333eacbfe5fc95c1701bcb516c/discord-buttons-round.css)
+  * **example:** [preview](http://i.imgur.com/D9YoTGI.gif)
+* [SpoopySaitama/discord-css/hljs-tomorrow-night-custom](https://github.com/SpoopySaitama/discord-css/blob/master/hljs-tomorrow-night-custom.css) - Changes default codeblock highlighting into a dark theme inspired by Tomorrow Night. [Embed](https://cdn.rawgit.com/SpoopySaitama/discord-css/master/hljs-tomorrow-night-custom.css)
+  * **example:** [markdown](http://i.imgur.com/hkpbkdn.png)
+* [SpoopySaitama/discord-css/striped-user-popout](https://github.com/SpoopySaitama/discord-css/blob/master/striped-user-popout.css) - Makes user profile popouts have an animated, striped background. [Embed](https://cdn.rawgit.com/SpoopySaitama/discord-css/master/striped-user-popout.css)
+  * **example:** [animated](https://fat.gfycat.com/QueasyThankfulEchidna.gif)
+* [TripingPC/discord-CSSes](https://github.com/TripingPC/discord-CSSes/blob/master/status-user-popout.css) - Applies various tweaks including a custom playing prefix, bigger nicknames and status-based background-color for user popout headers. [Embed](https://rawgit.com/TripingPC/discord-CSSes/master/status-user-popout.css)
+  * **example:** [image](http://i.imgur.com/eJc5Eiu.png)
+* [Vap0r1ze/Discord-Nitro-Badges](https://github.com/Vap0r1ze/Discord-Nitro-Badges/blob/master/nitro.css) - Gives Nitro users cool badges. This only works for Nitro users with gif avatars, sorry. [Embed](https://cdn.rawgit.com/Vap0r1ze/Discord-Nitro-Badges/master/nitro.css)
+  * **example:** [image](https://cdn.rawgit.com/Vap0r1ze/Discord-Nitro-Badges/master/nitro.png)
+
+## Template
+
+`* [username/repo_name](link_to_repo) - short_description [Embed](https://cdn.rawgit.com/...)`
+
+***
+
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-13._

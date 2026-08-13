@@ -1,0 +1,365 @@
+{
+  "items": [
+    {
+      "description": "Please take a look at the contribution guidelines before you contribute. Thanks to all contributors, you rock!",
+      "items": [],
+      "title": "Contributing"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "If you see a package or project here that is no longer maintained or is not a good fit, please submit a pull request to improve this file, instead of proposing removal. Thank you!"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "SamuiNe/Crystalline-css",
+          "description": "Crystalline is a Beautiful Discord theme focused on using non-rounded edges, dark colors, and transparent windows. Custom background is supported. Embed",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "CSS",
+            "last_commit": "2023-10-14T09:05:26Z",
+            "owner": "SamuiNe",
+            "repo": "Crystalline-css",
+            "stars": 21
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Oliyy/Material-Design-Discord",
+          "description": "An attempt at making a dark material design theme with lots of boxshadow. Embed",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "CSS",
+            "last_commit": "2022-07-03T04:29:13Z",
+            "owner": "oliyy",
+            "repo": "Material-Design-Discord",
+            "stars": 8
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "jakeoid/Discord-Adapta",
+          "description": "A Jakeoid remix of the BeautifulDiscord theme based on the Adapta GTK theme by TheBITLINK. Embed",
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Screenshots: Preview",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "CSS",
+                "last_commit": "2016-12-13T04:34:31Z",
+                "owner": "jakeoid",
+                "repo": "Discord-Adapta",
+                "stars": 4
+              }
+            }
+          ],
+          "repo_info": {
+            "archived": false,
+            "language": "CSS",
+            "last_commit": "2016-12-13T04:34:31Z",
+            "owner": "jakeoid",
+            "repo": "Discord-Adapta",
+            "stars": 4
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "eye-sigil/Discord-Prism",
+          "description": "A transparent glass-like theme for Discord with support for your own background. Embed",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "CSS",
+            "last_commit": "2017-05-01T01:02:44Z",
+            "owner": "polyjitter",
+            "repo": "Discord-Prism",
+            "stars": 3
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "TheBITLINK/Discord-Adapta",
+          "description": "Theme based on the Adapta GTK theme with optional character backgrounds. Embed",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "CSS",
+            "last_commit": "2019-02-02T21:23:17Z",
+            "owner": "TheBITLINK",
+            "repo": "Discord-Adapta",
+            "stars": 2
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Blackhippy/HpstrDiscord",
+          "description": "A blue-greenish custom css theme for discord. The css code is based off of LUModder SpacegrayEdit. Embed",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "CSS",
+            "last_commit": "2018-03-07T02:29:04Z",
+            "owner": "Blackhippy",
+            "repo": "HpstrDiscord",
+            "stars": 1
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "SnazzyPine25/Skype-Theme",
+          "description": "Theme based on Skype and Skype Preview. Embed",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "CSS",
+            "last_commit": "2017-04-24T11:06:18Z",
+            "owner": "Snazzah",
+            "repo": "BeautifulDiscordThemes",
+            "stars": 0
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "AlexFlipnote/Discord_Theme",
+          "description": "A custom CSS made to change your discord style. Embed",
+          "children": []
+        },
+        {
+          "node_type": "item",
+          "title": "Cynosphere/Discord-SpacegrayEdit",
+          "description": "A theme based on Spacegray syntax theme with color changes and classic, non-rounded embeds. Embed",
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Screenshots: Codeblocks",
+              "description": ", General",
+              "children": []
+            }
+          ]
+        },
+        {
+          "node_type": "item",
+          "title": "LewisTehMinerz/BootyfulDiscord",
+          "description": "BootyfulDiscord.theme.css | A theme based off of AlexFlipnote's theme containing some snippets and some personal mods. Embed",
+          "children": []
+        }
+      ],
+      "title": "Themes"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "kanadeko/cozy-discord",
+          "description": "Auto hides the server list and makes it appear again on hover. Also moves notifications/badges to the left and makes them pretty. Embed",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "CSS",
+            "last_commit": "2023-04-17T18:36:24Z",
+            "owner": "Pitu",
+            "repo": "cozy-discord",
+            "stars": 11
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "jakeoid/discord-emoji-anim",
+          "description": "Adds some basic animations for Emoji that are inside of your Discord client. Embed",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "CSS",
+            "last_commit": "2018-03-24T21:57:24Z",
+            "owner": "jakeoid",
+            "repo": "discord-emoji-anim",
+            "stars": 4
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "jakeoid/disccord",
+          "description": "adds the kikke, banne, mutte, deaffe, delette options to your discord client. Embed",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "CSS",
+            "last_commit": "2017-05-12T08:18:07Z",
+            "owner": "jakeoid",
+            "repo": "disccord",
+            "stars": 2
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "martmists/Discord-DnD",
+          "description": "A snippet that adds the Dungeons and Dragons to the status list. Embed",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "CSS",
+            "last_commit": "2017-01-07T16:51:16Z",
+            "owner": "Martmists-GH",
+            "repo": "Discord-DnD",
+            "stars": 2
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "PikaDude/Discord-Fade-Anims",
+          "description": "Adds fading animations to almost everything in Discord. Embed",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "CSS",
+            "last_commit": "2017-05-07T11:31:01Z",
+            "owner": "PikaDude",
+            "repo": "Discord-Fade-Anims",
+            "stars": 2
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "benzarr410/beautifuldiscord-nametags",
+          "description": "Allows you to add custom nametags to people. Embed",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "CSS",
+            "last_commit": "2017-06-09T17:05:30Z",
+            "owner": "ProbablyGallium",
+            "repo": "beautifuldiscord-nametags",
+            "stars": 1
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "SnazzyPine25/DarkFaders",
+          "description": "Applies animation and tweaks to tooltips. Embed",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "CSS",
+            "last_commit": "2019-04-16T18:17:54Z",
+            "owner": "Snazzah",
+            "repo": "BeautifulDiscordSnippets",
+            "stars": 1
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "SnazzyPine25/Windows-10-Context-Menu",
+          "description": "Styles Context Menus after Windows 10. Embed",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "CSS",
+            "last_commit": "2019-04-16T18:17:54Z",
+            "owner": "Snazzah",
+            "repo": "BeautifulDiscordSnippets",
+            "stars": 1
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "SnazzyPine25/Windows-7",
+          "description": "Styles various buttons and checkboxes after Windows 7. Embed",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "CSS",
+            "last_commit": "2019-04-16T18:17:54Z",
+            "owner": "Snazzah",
+            "repo": "BeautifulDiscordSnippets",
+            "stars": 1
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Ratismal/pink-hljs",
+          "description": "Makes codeblocks pretty and pink! Embed",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "CSS",
+            "last_commit": "2016-12-30T17:10:14Z",
+            "owner": "Ratismal",
+            "repo": "pink-hljs",
+            "stars": 0
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Cynosphere/Discord-ThemeSniplets/classic-embeds.css",
+          "description": "Classic, non-rounded embeds. Embed",
+          "children": []
+        },
+        {
+          "node_type": "item",
+          "title": "DracoZ12/TotalDarkMode",
+          "description": "Adds dark mode (mostly) everywhere. Embed",
+          "children": []
+        },
+        {
+          "node_type": "item",
+          "title": "endreman0/discord-custom/noappbar",
+          "description": "Expand the app bar, with the Discord wordmark and minimize/maximize/exit buttons, but hide it unless you hover at the top of the screen. Embed",
+          "children": []
+        },
+        {
+          "node_type": "item",
+          "title": "LUModder/Discord-ThemeSniplets/transparent-base.css",
+          "description": "A transparent base for easily adding in backgrounds. Embed",
+          "children": []
+        },
+        {
+          "node_type": "item",
+          "title": "SpoopySaitama/discord-css/hljs-tomorrow-night-custom",
+          "description": "Changes default codeblock highlighting into a dark theme inspired by Tomorrow Night. Embed",
+          "children": []
+        },
+        {
+          "node_type": "item",
+          "title": "SpoopySaitama/discord-css/striped-user-popout",
+          "description": "Makes user profile popouts have an animated, striped background. Embed",
+          "children": []
+        },
+        {
+          "node_type": "item",
+          "title": "TripingPC/discord-CSSes",
+          "description": "Applies various tweaks including a custom playing prefix, bigger nicknames and status-based background-color for user popout headers. Embed",
+          "children": []
+        },
+        {
+          "node_type": "item",
+          "title": "Vap0r1ze/Discord-Nitro-Badges",
+          "description": "Gives Nitro users cool badges. This only works for Nitro users with gif avatars, sorry. Embed",
+          "children": []
+        }
+      ],
+      "title": "Useful snippets"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Template"
+    }
+  ],
+  "metadata": {
+    "last_updated": "2026-08-13T06:51:11.606Z",
+    "original_repository": "DTinker/discord-resources",
+    "original_repository_sha": "f57708c3030d2e55c0bbc9af7f46c4e1e7829182",
+    "enhanced_repository": "enhansome/enhansome-discord-resources",
+    "enhanced_repository_description": null,
+    "title": "Awesome DTinker - Discord Resources with stars"
+  }
+}
