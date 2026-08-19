@@ -1,17 +1,7 @@
 {
   "items": [
     {
-      "description": "Please take a look at the contribution guidelines before you contribute. Thanks to all contributors, you rock!",
-      "items": [],
-      "title": "Contributing"
-    },
-    {
-      "description": "",
-      "items": [],
-      "title": "If you see a package or project here that is no longer maintained or is not a good fit, please submit a pull request to improve this file, instead of proposing removal. Thank you!"
-    },
-    {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -20,6 +10,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 77588106,
             "language": "CSS",
             "last_commit": "2023-10-14T09:05:26Z",
             "owner": "SamuiNe",
@@ -34,6 +25,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 89091234,
             "language": "CSS",
             "last_commit": "2022-07-03T04:29:13Z",
             "owner": "oliyy",
@@ -53,6 +45,7 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "id": 76207775,
                 "language": "CSS",
                 "last_commit": "2016-12-13T04:34:31Z",
                 "owner": "jakeoid",
@@ -63,6 +56,7 @@
           ],
           "repo_info": {
             "archived": false,
+            "id": 76207775,
             "language": "CSS",
             "last_commit": "2016-12-13T04:34:31Z",
             "owner": "jakeoid",
@@ -77,6 +71,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 77272366,
             "language": "CSS",
             "last_commit": "2017-05-01T01:02:44Z",
             "owner": "polyjitter",
@@ -91,6 +86,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 76146627,
             "language": "CSS",
             "last_commit": "2019-02-02T21:23:17Z",
             "owner": "TheBITLINK",
@@ -105,6 +101,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 85886957,
             "language": "CSS",
             "last_commit": "2018-03-07T02:29:04Z",
             "owner": "Blackhippy",
@@ -119,43 +116,19 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 80992456,
             "language": "CSS",
             "last_commit": "2017-04-24T11:06:18Z",
             "owner": "Snazzah",
             "repo": "BeautifulDiscordThemes",
             "stars": 0
           }
-        },
-        {
-          "node_type": "item",
-          "title": "AlexFlipnote/Discord_Theme",
-          "description": "A custom CSS made to change your discord style. Embed",
-          "children": []
-        },
-        {
-          "node_type": "item",
-          "title": "Cynosphere/Discord-SpacegrayEdit",
-          "description": "A theme based on Spacegray syntax theme with color changes and classic, non-rounded embeds. Embed",
-          "children": [
-            {
-              "node_type": "item",
-              "title": "Screenshots: Codeblocks",
-              "description": ", General",
-              "children": []
-            }
-          ]
-        },
-        {
-          "node_type": "item",
-          "title": "LewisTehMinerz/BootyfulDiscord",
-          "description": "BootyfulDiscord.theme.css | A theme based off of AlexFlipnote's theme containing some snippets and some personal mods. Embed",
-          "children": []
         }
       ],
       "title": "Themes"
     },
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -164,6 +137,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 76523815,
             "language": "CSS",
             "last_commit": "2023-04-17T18:36:24Z",
             "owner": "Pitu",
@@ -178,6 +152,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 76141101,
             "language": "CSS",
             "last_commit": "2018-03-24T21:57:24Z",
             "owner": "jakeoid",
@@ -192,6 +167,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 70039502,
             "language": "CSS",
             "last_commit": "2017-05-12T08:18:07Z",
             "owner": "jakeoid",
@@ -206,6 +182,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 78289512,
             "language": "CSS",
             "last_commit": "2017-01-07T16:51:16Z",
             "owner": "Martmists-GH",
@@ -220,6 +197,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 76150869,
             "language": "CSS",
             "last_commit": "2017-05-07T11:31:01Z",
             "owner": "PikaDude",
@@ -234,6 +212,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 93872829,
             "language": "CSS",
             "last_commit": "2017-06-09T17:05:30Z",
             "owner": "ProbablyGallium",
@@ -248,6 +227,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 80958940,
             "language": "CSS",
             "last_commit": "2019-04-16T18:17:54Z",
             "owner": "Snazzah",
@@ -262,6 +242,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 80958940,
             "language": "CSS",
             "last_commit": "2019-04-16T18:17:54Z",
             "owner": "Snazzah",
@@ -276,6 +257,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 80958940,
             "language": "CSS",
             "last_commit": "2019-04-16T18:17:54Z",
             "owner": "Snazzah",
@@ -290,73 +272,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 77699414,
             "language": "CSS",
             "last_commit": "2016-12-30T17:10:14Z",
             "owner": "Ratismal",
             "repo": "pink-hljs",
             "stars": 0
           }
-        },
-        {
-          "node_type": "item",
-          "title": "Cynosphere/Discord-ThemeSniplets/classic-embeds.css",
-          "description": "Classic, non-rounded embeds. Embed",
-          "children": []
-        },
-        {
-          "node_type": "item",
-          "title": "DracoZ12/TotalDarkMode",
-          "description": "Adds dark mode (mostly) everywhere. Embed",
-          "children": []
-        },
-        {
-          "node_type": "item",
-          "title": "endreman0/discord-custom/noappbar",
-          "description": "Expand the app bar, with the Discord wordmark and minimize/maximize/exit buttons, but hide it unless you hover at the top of the screen. Embed",
-          "children": []
-        },
-        {
-          "node_type": "item",
-          "title": "LUModder/Discord-ThemeSniplets/transparent-base.css",
-          "description": "A transparent base for easily adding in backgrounds. Embed",
-          "children": []
-        },
-        {
-          "node_type": "item",
-          "title": "SpoopySaitama/discord-css/hljs-tomorrow-night-custom",
-          "description": "Changes default codeblock highlighting into a dark theme inspired by Tomorrow Night. Embed",
-          "children": []
-        },
-        {
-          "node_type": "item",
-          "title": "SpoopySaitama/discord-css/striped-user-popout",
-          "description": "Makes user profile popouts have an animated, striped background. Embed",
-          "children": []
-        },
-        {
-          "node_type": "item",
-          "title": "TripingPC/discord-CSSes",
-          "description": "Applies various tweaks including a custom playing prefix, bigger nicknames and status-based background-color for user popout headers. Embed",
-          "children": []
-        },
-        {
-          "node_type": "item",
-          "title": "Vap0r1ze/Discord-Nitro-Badges",
-          "description": "Gives Nitro users cool badges. This only works for Nitro users with gif avatars, sorry. Embed",
-          "children": []
         }
       ],
       "title": "Useful snippets"
-    },
-    {
-      "description": "",
-      "items": [],
-      "title": "Template"
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-19T05:50:49.361Z",
+    "last_updated": "2026-08-19T12:29:54.108Z",
     "original_repository": "DTinker/discord-resources",
+    "original_repository_id": 76142149,
     "original_repository_sha": "f57708c3030d2e55c0bbc9af7f46c4e1e7829182",
     "enhanced_repository": "enhansome/enhansome-discord-resources",
     "enhanced_repository_description": null,
