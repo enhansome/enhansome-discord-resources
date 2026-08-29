@@ -10,12 +10,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Theme CSS for BeautifulDiscord and BetterDiscord~",
+            "homepage": null,
             "id": 77588106,
             "language": "CSS",
+            "license": "MIT",
             "last_commit": "2023-10-14T09:05:26Z",
+            "open_issues": 4,
             "owner": "SamuiNe",
             "repo": "Crystalline-css",
-            "stars": 21
+            "stars": 21,
+            "topics": [
+              "beautifuldiscord",
+              "betterdiscord",
+              "css",
+              "discord",
+              "theme"
+            ]
           },
           "first_seen": "2026-08-28T17:29:07.510Z"
         },
@@ -26,12 +37,26 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "An attempt at a Material Design Discord theme using Beautifuldiscord, more material-like updates soon",
+            "homepage": null,
             "id": 89091234,
             "language": "CSS",
+            "license": "MIT",
             "last_commit": "2022-07-03T04:29:13Z",
+            "open_issues": 0,
             "owner": "oliyy",
             "repo": "Material-Design-Discord",
-            "stars": 8
+            "stars": 8,
+            "topics": [
+              "beautifuldiscord",
+              "box-shadow",
+              "css",
+              "custom",
+              "custom-background",
+              "discord",
+              "material-design",
+              "theme"
+            ]
           },
           "first_seen": "2026-08-28T17:29:07.510Z"
         },
@@ -47,24 +72,34 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A Jakeoid remix of the BeautifulDiscord theme based on the Adapta GTK theme by TheBITLINK.",
+                "homepage": null,
                 "id": 76207775,
                 "language": "CSS",
+                "license": "MIT",
                 "last_commit": "2016-12-13T04:34:31Z",
+                "open_issues": 0,
                 "owner": "jakeoid",
                 "repo": "Discord-Adapta",
-                "stars": 4
+                "stars": 4,
+                "topics": []
               },
               "first_seen": "2026-08-28T17:29:07.510Z"
             }
           ],
           "repo_info": {
             "archived": false,
+            "description": "A Jakeoid remix of the BeautifulDiscord theme based on the Adapta GTK theme by TheBITLINK.",
+            "homepage": null,
             "id": 76207775,
             "language": "CSS",
+            "license": "MIT",
             "last_commit": "2016-12-13T04:34:31Z",
+            "open_issues": 0,
             "owner": "jakeoid",
             "repo": "Discord-Adapta",
-            "stars": 4
+            "stars": 4,
+            "topics": []
           },
           "first_seen": "2026-08-28T17:29:07.510Z"
         },
@@ -75,12 +110,17 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "A transparent glass-like theme for Discord with support for your own background.",
+            "homepage": null,
             "id": 77272366,
             "language": "CSS",
+            "license": "MIT",
             "last_commit": "2017-05-01T01:02:44Z",
+            "open_issues": 2,
             "owner": "polyjitter",
             "repo": "Discord-Prism",
-            "stars": 3
+            "stars": 3,
+            "topics": []
           },
           "first_seen": "2026-08-28T17:29:07.510Z"
         },
@@ -91,12 +131,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "BeautifulDiscord theme based on the Adapta GTK theme with optional character backgrounds.",
+            "homepage": null,
             "id": 76146627,
             "language": "CSS",
+            "license": "MIT",
             "last_commit": "2019-02-02T21:23:17Z",
+            "open_issues": 0,
             "owner": "TheBITLINK",
             "repo": "Discord-Adapta",
-            "stars": 2
+            "stars": 2,
+            "topics": [
+              "beautifuldiscord-theme",
+              "discord",
+              "discord-theme",
+              "stylus"
+            ]
           },
           "first_seen": "2026-08-28T17:29:07.510Z"
         },
@@ -107,12 +157,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "BeautifulDiscord css theme",
+            "homepage": null,
             "id": 85886957,
             "language": "CSS",
+            "license": null,
             "last_commit": "2018-03-07T02:29:04Z",
+            "open_issues": 0,
             "owner": "Blackhippy",
             "repo": "HpstrDiscord",
-            "stars": 1
+            "stars": 1,
+            "topics": []
           },
           "first_seen": "2026-08-28T17:29:07.510Z"
         },
@@ -123,12 +178,17 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "Cool themes to make yourself feel proud about",
+            "homepage": null,
             "id": 80992456,
             "language": "CSS",
+            "license": null,
             "last_commit": "2017-04-24T11:06:18Z",
+            "open_issues": 1,
             "owner": "Snazzah",
             "repo": "BeautifulDiscordThemes",
-            "stars": 0
+            "stars": 0,
+            "topics": []
           },
           "first_seen": "2026-08-28T17:29:07.510Z"
         }
@@ -145,12 +205,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Some css tweaks to make Discord cozier on smol screens",
+            "homepage": null,
             "id": 76523815,
             "language": "CSS",
+            "license": null,
             "last_commit": "2023-04-17T18:36:24Z",
+            "open_issues": 5,
             "owner": "Pitu",
             "repo": "cozy-discord",
-            "stars": 11
+            "stars": 11,
+            "topics": []
           },
           "first_seen": "2026-08-28T17:29:07.510Z"
         },
@@ -161,12 +226,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Adds some basic animations for Emoji that are inside of your Discord client.",
+            "homepage": null,
             "id": 76141101,
             "language": "CSS",
+            "license": "MIT",
             "last_commit": "2018-03-24T21:57:24Z",
+            "open_issues": 0,
             "owner": "jakeoid",
             "repo": "discord-emoji-anim",
-            "stars": 4
+            "stars": 4,
+            "topics": []
           },
           "first_seen": "2026-08-28T17:29:07.510Z"
         },
@@ -177,12 +247,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "adds the kikke, banne, mutte, deaffe, delette options to your discord client.",
+            "homepage": null,
             "id": 70039502,
             "language": "CSS",
+            "license": null,
             "last_commit": "2017-05-12T08:18:07Z",
+            "open_issues": 1,
             "owner": "jakeoid",
             "repo": "disccord",
-            "stars": 2
+            "stars": 2,
+            "topics": []
           },
           "first_seen": "2026-08-28T17:29:07.510Z"
         },
@@ -193,12 +268,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Dungeons and Dragons",
+            "homepage": null,
             "id": 78289512,
             "language": "CSS",
+            "license": null,
             "last_commit": "2017-01-07T16:51:16Z",
+            "open_issues": 0,
             "owner": "Martmists-GH",
             "repo": "Discord-DnD",
-            "stars": 2
+            "stars": 2,
+            "topics": []
           },
           "first_seen": "2026-08-28T17:29:07.510Z"
         },
@@ -209,12 +289,17 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "Adds fading animations to almost everything in Discord.",
+            "homepage": null,
             "id": 76150869,
             "language": "CSS",
+            "license": null,
             "last_commit": "2017-05-07T11:31:01Z",
+            "open_issues": 0,
             "owner": "PikaDude",
             "repo": "Discord-Fade-Anims",
-            "stars": 2
+            "stars": 2,
+            "topics": []
           },
           "first_seen": "2026-08-28T17:29:07.510Z"
         },
@@ -225,12 +310,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Adds nametag functionality to BeautifulDiscord, MyDiscord, or even any old custom CSS injector!",
+            "homepage": null,
             "id": 93872829,
             "language": "CSS",
+            "license": "MIT",
             "last_commit": "2017-06-09T17:05:30Z",
+            "open_issues": 0,
             "owner": "ProbablyGallium",
             "repo": "beautifuldiscord-nametags",
-            "stars": 1
+            "stars": 1,
+            "topics": []
           },
           "first_seen": "2026-08-28T17:29:07.510Z"
         },
@@ -241,12 +331,17 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "Cool things to inject into discord",
+            "homepage": null,
             "id": 80958940,
             "language": "CSS",
+            "license": null,
             "last_commit": "2019-04-16T18:17:54Z",
+            "open_issues": 1,
             "owner": "Snazzah",
             "repo": "BeautifulDiscordSnippets",
-            "stars": 1
+            "stars": 1,
+            "topics": []
           },
           "first_seen": "2026-08-28T17:29:07.510Z"
         },
@@ -257,12 +352,17 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "Cool things to inject into discord",
+            "homepage": null,
             "id": 80958940,
             "language": "CSS",
+            "license": null,
             "last_commit": "2019-04-16T18:17:54Z",
+            "open_issues": 1,
             "owner": "Snazzah",
             "repo": "BeautifulDiscordSnippets",
-            "stars": 1
+            "stars": 1,
+            "topics": []
           },
           "first_seen": "2026-08-28T17:29:07.510Z"
         },
@@ -273,12 +373,17 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "Cool things to inject into discord",
+            "homepage": null,
             "id": 80958940,
             "language": "CSS",
+            "license": null,
             "last_commit": "2019-04-16T18:17:54Z",
+            "open_issues": 1,
             "owner": "Snazzah",
             "repo": "BeautifulDiscordSnippets",
-            "stars": 1
+            "stars": 1,
+            "topics": []
           },
           "first_seen": "2026-08-28T17:29:07.510Z"
         },
@@ -289,12 +394,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": ":eyes:",
+            "homepage": null,
             "id": 77699414,
             "language": "CSS",
+            "license": null,
             "last_commit": "2016-12-30T17:10:14Z",
+            "open_issues": 0,
             "owner": "Ratismal",
             "repo": "pink-hljs",
-            "stars": 0
+            "stars": 0,
+            "topics": []
           },
           "first_seen": "2026-08-28T17:29:07.510Z"
         }
@@ -303,15 +413,25 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-28T17:29:07.510Z",
+    "last_updated": "2026-08-29T04:58:05.453Z",
     "original_repository_info": {
       "archived": false,
+      "description": "A curated list of awesome Discord modding resources",
+      "homepage": null,
       "id": 76142149,
       "language": "Go",
+      "license": "MIT",
       "last_commit": "2019-03-17T15:03:48Z",
+      "open_issues": 0,
       "owner": "DTinker",
       "repo": "discord-resources",
-      "stars": 129
+      "stars": 129,
+      "topics": [
+        "awesome-list",
+        "css",
+        "discord",
+        "discord-theme"
+      ]
     },
     "original_repository_sha": "f57708c3030d2e55c0bbc9af7f46c4e1e7829182",
     "enhanced_repository": "enhansome/enhansome-discord-resources",
