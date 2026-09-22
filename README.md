@@ -1,14 +1,14 @@
 # Awesome DTinker - Discord Resources with stars
 
-A curated list of awesome resources to customize your Discord experience. Inspired by [awesome lists](https://github.com/sindresorhus/awesome) ⭐ 508,407 | 🐛 106 | 📅 2026-09-02.
+A curated list of awesome resources to customize your Discord experience. Inspired by [awesome lists](https://github.com/sindresorhus/awesome) ⭐ 508,785 | 🐛 106 | 📅 2026-09-02.
 
 This project attempts to make end-user life easier by requiring contributors to add working `@import`able embed links.
 
-If you encounter a problem while installing a discord mod, or are not quite sure what to do and the instructions on the main repository aren't helping, [click here](https://github.com/DTinker/discord-resources/wiki/Installing-Modifications) ⭐ 129 | 🐛 0 | 🌐 Go | 📅 2019-03-17 for a more in-depth installation guide.
+If you encounter a problem while installing a discord mod, or are not quite sure what to do and the instructions on the main repository aren't helping, [click here](https://github.com/DTinker/discord-resources/wiki/Installing-Modifications) ⭐ 130 | 🐛 0 | 🌐 Go | 📅 2019-03-17 for a more in-depth installation guide.
 
 ### Contributing
 
-Please take a look at the [contribution guidelines](https://github.com/DTinker/discord-resources/blob/master/CONTRIBUTING.md) ⭐ 129 | 🐛 0 | 🌐 Go | 📅 2019-03-17 before you contribute. Thanks to all [contributors](https://github.com/DTinker/discord-resources/graphs/contributors) ⭐ 129 | 🐛 0 | 🌐 Go | 📅 2019-03-17, you rock!
+Please take a look at the [contribution guidelines](https://github.com/DTinker/discord-resources/blob/master/CONTRIBUTING.md) ⭐ 130 | 🐛 0 | 🌐 Go | 📅 2019-03-17 before you contribute. Thanks to all [contributors](https://github.com/DTinker/discord-resources/graphs/contributors) ⭐ 130 | 🐛 0 | 🌐 Go | 📅 2019-03-17, you rock!
 
 #### *If you see a package or project here that is no longer maintained or is not a good fit, please submit a pull request to improve this file, instead of proposing removal. Thank you!*
 
@@ -93,4 +93,4 @@ Please take a look at the [contribution guidelines](https://github.com/DTinker/d
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-21._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-22._
