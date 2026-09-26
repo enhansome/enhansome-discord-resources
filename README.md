@@ -1,6 +1,6 @@
 # Awesome DTinker - Discord Resources with stars
 
-A curated list of awesome resources to customize your Discord experience. Inspired by [awesome lists](https://github.com/sindresorhus/awesome) ⭐ 510,176 | 🐛 107 | 📅 2026-09-02.
+A curated list of awesome resources to customize your Discord experience. Inspired by [awesome lists](https://github.com/sindresorhus/awesome) ⭐ 510,658 | 🐛 107 | 📅 2026-09-02.
 
 This project attempts to make end-user life easier by requiring contributors to add working `@import`able embed links.
 
@@ -93,4 +93,4 @@ Please take a look at the [contribution guidelines](https://github.com/DTinker/d
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-25._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-26._
