@@ -68,7 +68,7 @@
             {
               "node_type": "item",
               "title": "Screenshots: Preview",
-              "description": null,
+              "description": "jakeoid/Discord-Adapta",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -413,7 +413,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-02T11:10:17.966Z",
+    "last_updated": "2026-10-03T04:41:20.491Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome Discord modding resources",
