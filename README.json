@@ -413,7 +413,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-01T11:53:53.868Z",
+    "last_updated": "2026-11-02T13:38:31.961Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome Discord modding resources",
@@ -425,7 +425,7 @@
       "open_issues": 0,
       "owner": "DTinker",
       "repo": "discord-resources",
-      "stars": 129,
+      "stars": 130,
       "topics": [
         "awesome-list",
         "css",
